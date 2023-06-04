@@ -8,7 +8,7 @@
    "default_popup": "index.html"  
   },  
   "chrome_url_overrides": {
-    "newtab": "tab_override.html"
+    "newtab": "index.html"
   },
   "permissions": ["tabs"]
 }
