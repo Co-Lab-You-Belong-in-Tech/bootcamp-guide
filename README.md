@@ -4,16 +4,13 @@
 
 --- 
 
-Step 1: Click on Code on this repo 
-![image](https://github.com/Co-Lab-You-Belong-in-Tech/sprint-os/assets/4635815/39bcd268-2a59-4de8-a2f2-3a69d82405d8)
+Step 1: Click on Code on this repo (top right green button_ 
 
-Step 2: Download ZIP
-![image](https://github.com/Co-Lab-You-Belong-in-Tech/sprint-os/assets/4635815/f6a3dece-ba12-4ddd-abef-192e630e06c0)
+Step 2: Click Download ZIP
 
 Step 3: Open up the ZIP file on your computer
 
 Step 4: Go to Extensions on your browser
-![image](https://github.com/Co-Lab-You-Belong-in-Tech/sprint-os/assets/4635815/2a81e61c-3ab0-45d9-a0af-f8b991b19de2)
 
 Step 5: Make sure Developer Mode is turned on 
 
