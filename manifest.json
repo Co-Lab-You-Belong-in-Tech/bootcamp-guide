@@ -1,8 +1,8 @@
 {  
   "manifest_version": 2,  
-  "name": "Sprint Guide",  
-  "description": "Co.Lab Sprint program web extension",  
-  "version": "2.0",  
+  "name": "Bootcamp Guide",  
+  "description": "Co.Lab Bootcamp program web extension",  
+  "version": "1.0",  
   "browser_action": {  
    "default_icon": "Circle Logo.png",  
    "default_popup": "index.html"  
