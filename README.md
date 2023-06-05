@@ -1,4 +1,4 @@
-# sprint-os
+# bootcamp-guide
 
 <b>Video Guide: https://app.usebubbles.com/fg8CohQAnfUgmQzUqS2GPx/installing-the-sprint-guide-extension </b>
 
