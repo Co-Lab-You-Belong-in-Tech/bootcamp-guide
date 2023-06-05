@@ -4,7 +4,7 @@
 
 --- 
 
-Step 1: Click on Code
+Step 1: Click on Code on this repo 
 ![image](https://github.com/Co-Lab-You-Belong-in-Tech/sprint-os/assets/4635815/39bcd268-2a59-4de8-a2f2-3a69d82405d8)
 
 Step 2: Download ZIP
