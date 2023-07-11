@@ -1,10 +1,8 @@
 # bootcamp-guide
 
-<b>Video Guide: https://app.usebubbles.com/fg8CohQAnfUgmQzUqS2GPx/installing-the-sprint-guide-extension </b>
-
 --- 
 
-Step 1: Click on Code on this repo (top right green button_ 
+Step 1: Click on Code on this repo (top right green button)
 
 Step 2: Click Download ZIP
 
