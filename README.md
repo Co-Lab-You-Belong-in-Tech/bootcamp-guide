@@ -1,6 +1,6 @@
 # bootcamp-guide
 
---- 
+Video Tutorial: https://www.canva.com/design/DAFohe486jU/Op2zJ9W5TBpFQs0WTof2Yw/watch?utm_content=DAFohe486jU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 Step 1: Click on Code on this repo (top right green button)
 
